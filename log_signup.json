@@ -1,0 +1,16 @@
+{
+    "User": [
+        {
+            "Username": "Giangkhamliu Grace Pamei",
+            "Password": "21Jan@2021",
+            "Profile": {
+                "Description": "Hello!, I am Grace from Tamenglong\n Belonging to Rongmei community. Currently, residing in NavGurukul Bangalore.",
+                "Date Of Birth": "09-05-1998",
+                "Hobbies": "Badminton",
+                "Gender": "female",
+                "Contact": "9863093307",
+                "Gmail": "grace@gmail.com"
+            }
+        }
+    ]
+}
