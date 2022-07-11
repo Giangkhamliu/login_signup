@@ -11,6 +11,18 @@
                 "Contact": "6005967450",
                 "Gmail": "namjei@gmail.com"
             }
+        },
+        {
+            "Username": "Grace",
+            "Password": "Grace@123",
+            "Profile": {
+                "Description": "1234567",
+                "Date of Birth": "qwer",
+                "Gender": "wer",
+                "Hobbies": "3456",
+                "Contact": "23456",
+                "Gmail": "456"
+            }
         }
     ]
 }
